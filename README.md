@@ -2,7 +2,7 @@
 
 A fully automated personal assistant built with **n8n**, **Groq AI**, **Google Calendar API** and **Telegram Bot** that manages your schedule, tracks daily habits, sends intelligent reminders and responds to natural language text and voice commands — running 24/7 on Railway cloud.
 
-> **Status: Live in production** — currently running as a personal productivity system in Lagos, Nigeria.
+> **Status: Live in production** — currently running as a personal productivity system.
 
 ---
 
@@ -186,8 +186,6 @@ Built by **Muyideen Saka** — AI Automation Developer based in Lagos, Nigeria.
 I build intelligent automation systems that eliminate manual work, run 24/7 and make productivity feel effortless.
 
 - 📧 muyideensaka981@gmail.com
-- 💼 [Hire me on Upwork](https://www.upwork.com)
-- ✈️ Telegram: @Ladan101
 - 🐙 GitHub: [@Muyiez101](https://github.com/Muyiez101)
 
 ---
